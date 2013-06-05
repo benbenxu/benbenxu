@@ -1,0 +1,19 @@
+
+#logo{
+    font-family: 'Finger Paint', sans-serif;
+    font-size: 48px;
+    float:left;
+}
+
+a{
+      text-decoration:none;  
+}
+
+#xing{
+    color: red;
+}
+
+#nav{
+    float: left;
+    word-spacing: 50px;
+}

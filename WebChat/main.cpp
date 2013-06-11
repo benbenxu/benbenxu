@@ -20,7 +20,6 @@ using namespace std;
 void setTime(char *outStr);
 void setExchangeHead(char *outStr, const string &clientHead);
 void getValueFromPairs(const char *str);
-char* Base64Code(const char* Message, int len);
 std::string base64_encode(unsigned char const* bytes_to_encode, unsigned int in_len);
 
 int main(int argc, char *argv[])

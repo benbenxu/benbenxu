@@ -1,0 +1,8 @@
+<config>
+    <website ref="http://www.szjt.gov.cn/apts/APTSLine.aspx" />
+
+    <lines>
+        <line id="118" LineGuid="f7da65db-b859-4213-be9e-713c2d5051a1" LineInfo="118(葑门首末站)" comment=""/>
+        <line id="120" LineGuid="1c237885-c9a5-4d96-a8fe-f8d5f8acf088" LineInfo="120(车坊首末站=>车坊首末站)" comment="西线"/>
+    </lines>
+</config>
